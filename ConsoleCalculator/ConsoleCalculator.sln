@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCalculator", "ConsoleCalculator\ConsoleCalculator.csproj", "{A742340D-229B-4D8C-B14E-8307E72A9948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A742340D-229B-4D8C-B14E-8307E72A9948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A742340D-229B-4D8C-B14E-8307E72A9948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A742340D-229B-4D8C-B14E-8307E72A9948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A742340D-229B-4D8C-B14E-8307E72A9948}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F9D682A-1192-4724-8D92-59F75F421EB7}
+	EndGlobalSection
+EndGlobal
